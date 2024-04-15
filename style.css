@@ -35,12 +35,13 @@
     
     h6{
         font-weight: 600;
+        font-size: medium;
         color: #6F42C1;
     }
     
     p,span{
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 20px;
+        font-size: 15px;
         color:  #808081;
         
     }
